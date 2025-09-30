@@ -1,20 +1,27 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Shipping Calculator Web Application
 
-Code Style:
-Maintain a consistent code style for readability.
+The **Shipping Calculator** is a web application designed to enhance supply chain management by calculating shipping costs and providing accurate delivery estimates.  
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+This project aims to make logistics more **transparent, efficient, and reliable** for both businesses and customers.  
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+---
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+## 🚀 Features
+- Calculate shipping rates based on weight, distance, and delivery type.
+- Provide estimated delivery times.
+- Easy-to-use and extendable codebase.
+- Open-source project under **Apache License 2.0**.
 
-Code Review:
-All contributions undergo a code review process.
+---
 
-Licensing:
-Contributions are licensed.
+## 🛠️ Getting Started
+
+### Prerequisites
+- Web browser (Chrome, Firefox, Edge, etc.)
+- Basic understanding of HTML, CSS, and JavaScript.
+
+### Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riyadkamhan/shipping-calculator.git
+   cd shipping-calculator
