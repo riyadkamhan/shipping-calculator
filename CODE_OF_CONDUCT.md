@@ -1,19 +1,10 @@
-
----
-
-## 📄 CONTRIBUTING.md
-```markdown
-# Contributing Guidelines
-
-We are excited that you want to contribute to the **Shipping Calculator Web Application** 🎉  
-
-Follow these steps to contribute:
-
----
-
-## 💻 How to Contribute
-
-1. **Fork** the repository on GitHub.
-2. **Clone** your fork to your local machine:
-   ```bash
-   git clone https://github.com/<your-username>/shipping-calculator.git
+# Contributor Covenant Code of Conduct
+## Our Pledge
+We pledge to make participation in our community a harassment-free experience for everyone.
+## Our Standards
+- Be respectful and kind.
+- Respect differing opinions.
+- Give and gracefully accept constructive feedback.
+## Enforcement
+Report any abusive or harassing behavior to [your-email@example.com].
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
